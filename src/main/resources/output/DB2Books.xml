@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books>
+	<book>
+		<author>Gambardella, Matthew</author>
+		<description>XML Developer's Guide</description>
+		<genre>Computer</genre>
+		<id>bk101</id>
+		<price>44.95</price>
+		<publish_date>2000-10-01T00:00:00+05:30</publish_date>
+		<title>An in-depth look at creating applications
+			with XML.
+		</title>
+	</book>
+	<book>
+		<author>O'Brien, Tim</author>
+		<description>Microsoft .NET: The Programming Bible</description>
+		<genre>Computer</genre>
+		<id>bk110</id>
+		<price>36.95</price>
+		<publish_date>2000-12-09T00:00:00+05:30</publish_date>
+		<title>Microsoft's .NET initiative is explored in
+			detail in this
+			deep
+			programmer's reference.
+		</title>
+	</book>
+	<book>
+		<author>O'Brien, Tim</author>
+		<description>MSXML3: A Comprehensive Guide</description>
+		<genre>Computer</genre>
+		<id>bk111</id>
+		<price>36.95</price>
+		<publish_date>2000-12-01T00:00:00+05:30</publish_date>
+		<title>The Microsoft MSXML3 parser is covered in
+			detail, with
+			attention
+			to XML DOM interfaces, XSLT processing,
+			SAX and more.
+		</title>
+	</book>
+	<book>
+		<author>Galos, Mike</author>
+		<description>Visual Studio 7: A Comprehensive Guide</description>
+		<genre>Computer</genre>
+		<id>bk112</id>
+		<price>49.95</price>
+		<publish_date>2001-04-16T00:00:00+05:30</publish_date>
+		<title>Microsoft Visual Studio 7 is explored in depth,
+			looking at
+			how
+			Visual Basic, Visual C++, C#, and ASP+ are
+			integrated into a
+			comprehensive development
+			environment.
+		</title>
+	</book>
+</books>
